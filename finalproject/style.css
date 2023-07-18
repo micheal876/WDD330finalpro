@@ -1,0 +1,59 @@
+body {
+    background-color: #9CC5a1;
+    font-family: 'Mulish', sans-serif;
+}
+
+
+/*button style*/
+button {
+    display: block;
+}
+
+.button {
+    background-color: #216868; /* Set the background color */
+    color: #1f2421 ; /* Set the text color */
+    padding: 10px 20px; /* Set padding (top/bottom, left/right) */
+    font-size: 16px;
+    border: 20px; 
+    border-radius: 30px;
+    cursor: pointer; 
+  }
+  
+  .button:hover {
+    background-color: #45a049; /* Change the background color on hover */
+  }
+
+
+h1 {
+    color: #216868;
+    font-family: 'Mulish', sans-serif;
+    font-size: 60px;
+    text-align: center;
+    background-color: black;
+    border-radius: 30px;
+}
+h1:hover{
+    color: #45a049;
+}
+
+.per{
+    color: DCE1DE;
+    text-align: center;
+
+}
+
+
+/* CLASS Selectors */
+.showChart {
+    margin-top: 2px;;
+}
+
+/* ID Selectors */
+
+#output {
+    color: #617F3B;
+    font-family: 'Mulish', sans-serif;
+    font-size: 45px;
+    font-weight: 900;
+    text-align: center;
+}
